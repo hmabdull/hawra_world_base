@@ -1,4 +1,4 @@
-KcwWorld::Application.routes.draw do
+Hawraworldbase::Application.routes.draw do
 
   resources :articles
   resources :categories

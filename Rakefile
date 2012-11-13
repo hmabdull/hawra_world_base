@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-KcwWorld::Application.load_tasks
+Hawraworldbase::Application.load_tasks
